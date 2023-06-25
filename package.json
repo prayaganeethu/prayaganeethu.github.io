@@ -13,5 +13,6 @@
 		"url": "https://idontknow/todo.git"
 	},
 	"author": "prayaganeethu@gmail.com",
-	"version": "1.0.0"
+	"license": "MIT",
+	"version": "1.2.0"
 }
